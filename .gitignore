@@ -1,0 +1,4 @@
+weights
+splits
+*.cpython*
+*.egg-info
